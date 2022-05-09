@@ -1,4 +1,4 @@
-export const specialKeys = [
+const specialKeys = [
   'Backspace',
   'Tab',
   'Enter',
@@ -13,7 +13,7 @@ export const specialKeys = [
   'Delete',
 ];
 
-export const keysArr = [
+const keysArr = [
   [
     {
       className: 'Backquote',
